@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi 👋, I'm Andrés<br>A passionate Software Engineering student from Málaga, Spain
 
 
