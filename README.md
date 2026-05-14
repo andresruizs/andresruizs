@@ -69,17 +69,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=andresruizs&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andresruizs/andresruizs/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andresruizs/andresruizs/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andresruizs/andresruizs/pacman-output/breakout-contribution-graph.svg">
-</picture>
-
-###
